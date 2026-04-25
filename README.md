@@ -6,7 +6,8 @@
 
 [![Release](https://img.shields.io/github/v/release/isa-ozturk/LenzeSDCardTool-releases?style=flat-square&color=blue)](https://github.com/isa-ozturk/LenzeSDCardTool-releases/releases/latest)
 [![Platform](https://img.shields.io/badge/platform-Windows-lightgrey?style=flat-square)](https://github.com/isa-ozturk/LenzeSDCardTool-releases/releases/latest)
-[![Download](https://img.shields.io/github/downloads/isa-ozturk/LenzeSDCardTool-releases/total?style=flat-square&color=green)](https://github.com/isa-ozturk/LenzeSDCardTool-releases/releases/latest)
+[![Latest Downloads](https://img.shields.io/github/downloads/isa-ozturk/LenzeSDCardTool-releases/latest/total?style=flat-square&color=blue&label=latest%20downloads)](https://github.com/isa-ozturk/LenzeSDCardTool-releases/releases/latest)
+[![Total Downloads](https://img.shields.io/github/downloads/isa-ozturk/LenzeSDCardTool-releases/total?style=flat-square&color=green&label=total%20downloads)](https://github.com/isa-ozturk/LenzeSDCardTool-releases/releases)
 
 [⬇️ Son Sürümü İndir](https://github.com/isa-ozturk/LenzeSDCardTool-releases/releases/latest)
 
