@@ -1,5 +1,5 @@
-![Lang TR](https://img.shields.io/badge/lang-Türkçe-red)
-[![Lang EN](https://img.shields.io/badge/lang-English-blue)](README.md)
+![Lang TR](https://img.shields.io/badge/lang-Türkçe-red)(README.md)
+[![Lang EN](https://img.shields.io/badge/lang-English-blue)](README.en.md)
 
 <div align="center">
 
