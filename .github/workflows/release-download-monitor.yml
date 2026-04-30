@@ -244,11 +244,12 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          if git diff --quiet "${STATE_FILE}"; then
+          git add "${STATE_FILE}"
+
+          if git diff --cached --quiet; then
             echo "No state changes to commit."
             exit 0
           fi
 
-          git add "${STATE_FILE}"
           git commit -m "Update release download state"
           git push
