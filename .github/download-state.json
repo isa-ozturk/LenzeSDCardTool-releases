@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-10-15 05:40:45 UTC",
+  "checked_at_utc": "2026-10-15 11:05:16 UTC",
   "release": {
     "id": 315970185,
     "tag_name": "v2.1.4",
@@ -11,7 +11,7 @@
     {
       "id": 409253999,
       "name": "SDCardCleaner.exe",
-      "download_count": 28,
+      "download_count": 30,
       "browser_download_url": "https://github.com/isa-ozturk/LenzeSDCardTool-releases/releases/download/v2.1.4/SDCardCleaner.exe"
     }
   ]
